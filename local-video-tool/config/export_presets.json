@@ -1,0 +1,6 @@
+{
+  "hdr10_hevc": {"codec": "libx265", "crf": 16, "speed": "medium", "hdr": true},
+  "youtube_hdr10": {"codec": "libx265", "crf": 16, "speed": "medium", "hdr": true, "aspect": [16, 9]},
+  "instagram_hdr": {"codec": "libx265", "crf": 16, "speed": "medium", "hdr": true, "aspect": [9, 16]},
+  "sdr_h264": {"codec": "libx264", "crf": 18, "speed": "medium", "hdr": false}
+}
